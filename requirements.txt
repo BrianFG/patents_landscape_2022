@@ -1,5 +1,0 @@
-psycopg2-binary==2.9.5
-minio==7.1.12
-nltk==3.7
-spacy==3.4.3
-seaborn==0.12.1
